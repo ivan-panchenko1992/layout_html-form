@@ -2,10 +2,10 @@
   margin-bottom: 20px;
 }
 
-.form_inp {
+.form_input {
   margin-bottom: 10px;
 }
 
-.form_inp:last-of-type {
+.form_input:last-of-type {
   margin-bottom: 0;
 }
